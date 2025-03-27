@@ -2,7 +2,7 @@
 
 # ¡Hola, soy Elena Chávez 👋
 
-!(https://static.wikia.nocookie.net/mortalkombat/images/f/f7/Versus_Sonya_Blade_%28MK9%29.png/revision/latest/scale-to-width-down/500?cb=20110720214345&path-prefix=es)
+!(https://www.google.es/url?sa=i&url=https%3A%2F%2Fmortalkombat.fandom.com%2Fes%2Fwiki%2FSonya_Blade&psig=AOvVaw0GXmgor_k4lor6DaxMVy4_&ust=1743187430910000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDd2LD1qowDFQAAAAAdAAAAABAT)
 
 Soy animadora 3D. Realizo texturizado, animaciones en 2D/3D, modelado y ediciones de vídeo.
 
