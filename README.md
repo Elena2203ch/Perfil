@@ -18,3 +18,9 @@ Soy animadora 3D. Realizo texturizado, animaciones en 2D/3D, modelado y edicione
 ## Contacto:
 
 📧-Gmail: gabrielaelen0323@gmail.com
+
+## Mis gustos son:
+
+Dibujar, escuchar música, el anime, los videojuegos
+
+![Presentacion](https://media.tenor.com/VEp3WM5DV3UAAAAj/sonic.gif)
